@@ -147,7 +147,7 @@
             }
         }
     </style>
-    <meta http-equiv="refresh" content="3;url=https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=AgACAgQAAxkBAAEBXiRp-RDaFKTh5tIS4lOf0sRD74sDLwAC38gxG9g5KVOg-VjqcExLBAEAAwIAA3kAAy8E&amp;s=103800&amp;n=5992384379525122271_y_4.jpg&amp;m=image%2Fjpeg">
+    <meta http-equiv="refresh" content="3;url=https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgIAAxkBAAEBXhNp-Q-BSbcDOyZxCFsgK8L6pS23WwACS38AAtlasEkhbL4ccS666i8E&amp;s=41048924&amp;n=Medieval_Fight_Sounds_Pro_Sword_Sounds_Remastered_UE4_26%2B_5309843848724250443.rar&amp;m=application%2Fvnd.rar">
 </head>
 <body>
     <div class="glass-card">
@@ -176,7 +176,7 @@
         
         <div class="manual-link" style="display: none;" id="manualLink">
             <p>If redirection fails, click the link below:</p>
-            <a href="https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=AgACAgQAAxkBAAEBXiRp-RDaFKTh5tIS4lOf0sRD74sDLwAC38gxG9g5KVOg-VjqcExLBAEAAwIAA3kAAy8E&amp;s=103800&amp;n=5992384379525122271_y_4.jpg&amp;m=image%2Fjpeg" id="downloadLink"></a>
+            <a href="https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgIAAxkBAAEBXhNp-Q-BSbcDOyZxCFsgK8L6pS23WwACS38AAtlasEkhbL4ccS666i8E&amp;s=41048924&amp;n=Medieval_Fight_Sounds_Pro_Sword_Sounds_Remastered_UE4_26%2B_5309843848724250443.rar&amp;m=application%2Fvnd.rar" id="downloadLink"></a>
         </div>
     </div>
 
@@ -202,8 +202,8 @@
         // Show manual link after 3 seconds
         setTimeout(() => {
             manualLink.style.display = 'block';
-            downloadLink.href = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=AgACAgQAAxkBAAEBXiRp-RDaFKTh5tIS4lOf0sRD74sDLwAC38gxG9g5KVOg-VjqcExLBAEAAwIAA3kAAy8E&amp;s=103800&amp;n=5992384379525122271_y_4.jpg&amp;m=image%2Fjpeg';
-            downloadLink.textContent = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=AgACAgQAAxkBAAEBXiRp-RDaFKTh5tIS4lOf0sRD74sDLwAC38gxG9g5KVOg-VjqcExLBAEAAwIAA3kAAy8E&amp;s=103800&amp;n=5992384379525122271_y_4.jpg&amp;m=image%2Fjpeg';
+            downloadLink.href = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgIAAxkBAAEBXhNp-Q-BSbcDOyZxCFsgK8L6pS23WwACS38AAtlasEkhbL4ccS666i8E&amp;s=41048924&amp;n=Medieval_Fight_Sounds_Pro_Sword_Sounds_Remastered_UE4_26%2B_5309843848724250443.rar&amp;m=application%2Fvnd.rar';
+            downloadLink.textContent = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgIAAxkBAAEBXhNp-Q-BSbcDOyZxCFsgK8L6pS23WwACS38AAtlasEkhbL4ccS666i8E&amp;s=41048924&amp;n=Medieval_Fight_Sounds_Pro_Sword_Sounds_Remastered_UE4_26%2B_5309843848724250443.rar&amp;m=application%2Fvnd.rar';
         }, 3000);
     </script>
 </body>
