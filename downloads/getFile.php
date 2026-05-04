@@ -147,7 +147,7 @@
             }
         }
     </style>
-    <meta http-equiv="refresh" content="3;url=https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBXgxp-Qu2tIDIWwq99KY2H-54DCeGBAAC1xcAApC9CVD8YMXUsfBWSy8E&amp;s=193267369&amp;n=Stylized+Muzzle+and+Impacts+VFX+Pack_5767349223997577175.zip&amp;m=application%2Fzip">
+    <meta http-equiv="refresh" content="3;url=https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=AgACAgQAAxkBAAEBXiRp-RDaFKTh5tIS4lOf0sRD74sDLwAC38gxG9g5KVOg-VjqcExLBAEAAwIAA3kAAy8E&amp;s=103800&amp;n=5992384379525122271_y_4.jpg&amp;m=image%2Fjpeg">
 </head>
 <body>
     <div class="glass-card">
@@ -176,7 +176,7 @@
         
         <div class="manual-link" style="display: none;" id="manualLink">
             <p>If redirection fails, click the link below:</p>
-            <a href="https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBXgxp-Qu2tIDIWwq99KY2H-54DCeGBAAC1xcAApC9CVD8YMXUsfBWSy8E&amp;s=193267369&amp;n=Stylized+Muzzle+and+Impacts+VFX+Pack_5767349223997577175.zip&amp;m=application%2Fzip" id="downloadLink"></a>
+            <a href="https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=AgACAgQAAxkBAAEBXiRp-RDaFKTh5tIS4lOf0sRD74sDLwAC38gxG9g5KVOg-VjqcExLBAEAAwIAA3kAAy8E&amp;s=103800&amp;n=5992384379525122271_y_4.jpg&amp;m=image%2Fjpeg" id="downloadLink"></a>
         </div>
     </div>
 
@@ -202,8 +202,8 @@
         // Show manual link after 3 seconds
         setTimeout(() => {
             manualLink.style.display = 'block';
-            downloadLink.href = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBXgxp-Qu2tIDIWwq99KY2H-54DCeGBAAC1xcAApC9CVD8YMXUsfBWSy8E&amp;s=193267369&amp;n=Stylized+Muzzle+and+Impacts+VFX+Pack_5767349223997577175.zip&amp;m=application%2Fzip';
-            downloadLink.textContent = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBXgxp-Qu2tIDIWwq99KY2H-54DCeGBAAC1xcAApC9CVD8YMXUsfBWSy8E&amp;s=193267369&amp;n=Stylized+Muzzle+and+Impacts+VFX+Pack_5767349223997577175.zip&amp;m=application%2Fzip';
+            downloadLink.href = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=AgACAgQAAxkBAAEBXiRp-RDaFKTh5tIS4lOf0sRD74sDLwAC38gxG9g5KVOg-VjqcExLBAEAAwIAA3kAAy8E&amp;s=103800&amp;n=5992384379525122271_y_4.jpg&amp;m=image%2Fjpeg';
+            downloadLink.textContent = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=AgACAgQAAxkBAAEBXiRp-RDaFKTh5tIS4lOf0sRD74sDLwAC38gxG9g5KVOg-VjqcExLBAEAAwIAA3kAAy8E&amp;s=103800&amp;n=5992384379525122271_y_4.jpg&amp;m=image%2Fjpeg';
         }, 3000);
     </script>
 </body>
