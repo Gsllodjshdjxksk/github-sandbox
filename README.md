@@ -5,7 +5,7 @@
 A GitHub Actions workflow that lets you download files into your repositordy just by writing a special commit message — no terminalsor command line needed
 
 ---
-x
+xs
 ## ⚙️ Setups
 s
 0. Fork this repo
